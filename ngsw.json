@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643261417954,
-  "index": "workshop21/index.html",
+  "timestamp": 1643342460494,
+  "index": "/workshop21/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "workshop21/favicon.ico",
-        "workshop21/index.html",
-        "workshop21/main.d27f5b760eb0aea3.js",
-        "workshop21/manifest.webmanifest",
-        "workshop21/polyfills.4bdbddddb194420f.js",
-        "workshop21/runtime.825469429f175e3b.js",
-        "workshop21/styles.ef46db3751d8e999.css"
+        "/workshop21/favicon.ico",
+        "/workshop21/index.html",
+        "/workshop21/main.a587cc9f6b674930.js",
+        "/workshop21/manifest.webmanifest",
+        "/workshop21/polyfills.4bdbddddb194420f.js",
+        "/workshop21/runtime.825469429f175e3b.js",
+        "/workshop21/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,41 +29,41 @@
         "ignoreVary": true
       },
       "urls": [
-        "workshop21/assets/bitcoin.jpg",
-        "workshop21/assets/ethereum.jpg",
-        "workshop21/assets/icons/icon-128x128.png",
-        "workshop21/assets/icons/icon-144x144.png",
-        "workshop21/assets/icons/icon-152x152.png",
-        "workshop21/assets/icons/icon-192x192.png",
-        "workshop21/assets/icons/icon-384x384.png",
-        "workshop21/assets/icons/icon-512x512.png",
-        "workshop21/assets/icons/icon-72x72.png",
-        "workshop21/assets/icons/icon-96x96.png",
-        "workshop21/assets/terra.jpg"
+        "/workshop21/assets/bitcoin.jpg",
+        "/workshop21/assets/ethereum.jpg",
+        "/workshop21/assets/icons/icon-128x128.png",
+        "/workshop21/assets/icons/icon-144x144.png",
+        "/workshop21/assets/icons/icon-152x152.png",
+        "/workshop21/assets/icons/icon-192x192.png",
+        "/workshop21/assets/icons/icon-384x384.png",
+        "/workshop21/assets/icons/icon-512x512.png",
+        "/workshop21/assets/icons/icon-72x72.png",
+        "/workshop21/assets/icons/icon-96x96.png",
+        "/workshop21/assets/terra.jpg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "workshop21/assets/bitcoin.jpg": "32a361bbe9dd906a47208cc1e04e33f0725f5470",
-    "workshop21/assets/ethereum.jpg": "816fbeb91446a3aaa62448d6dd194f6ad10a4a89",
-    "workshop21/assets/icons/icon-128x128.png": "a5ceb51a34aa790054959d0b0cd2bad8a71943c0",
-    "workshop21/assets/icons/icon-144x144.png": "af8c6c79fd88be6ec10e251155d4c5eaad423118",
-    "workshop21/assets/icons/icon-152x152.png": "fbea018290dbec77820446877e6aab9e1fc91659",
-    "workshop21/assets/icons/icon-192x192.png": "14b5e760faa62b00ccbb67476cd5738a38f6e5cf",
-    "workshop21/assets/icons/icon-384x384.png": "187761247205fc1a88c1e393a3ae46b794a82875",
-    "workshop21/assets/icons/icon-512x512.png": "b64cbe4a777e07d4117115c3ed57cad00d3b9f21",
-    "workshop21/assets/icons/icon-72x72.png": "e9bded811cdd517f18a4ef6b36355bc763eb8ad2",
-    "workshop21/assets/icons/icon-96x96.png": "c1c6b45bdb5f83bf1fe213846aef935d8a730ecb",
-    "workshop21/assets/terra.jpg": "5eb44eaa3802a10cb777b9b5612f7e2cadc43d94",
-    "workshop21/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "workshop21/index.html": "c278221be00361b07e1a2234ed7379c3ab2182d2",
-    "workshop21/main.d27f5b760eb0aea3.js": "4d48114154d3a77b08a9d52dfefe6e2b5f45220e",
-    "workshop21/manifest.webmanifest": "eaaff84dbc99db352acf80b6b2445e9c4e1adaa1",
-    "workshop21/polyfills.4bdbddddb194420f.js": "d2ce7cfedb0d16255bf5e417be1bff3b522221d1",
-    "workshop21/runtime.825469429f175e3b.js": "14d8cb39990fd0514fbebcf933c5b220b7305ae7",
-    "workshop21/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/workshop21/assets/bitcoin.jpg": "32a361bbe9dd906a47208cc1e04e33f0725f5470",
+    "/workshop21/assets/ethereum.jpg": "816fbeb91446a3aaa62448d6dd194f6ad10a4a89",
+    "/workshop21/assets/icons/icon-128x128.png": "a5ceb51a34aa790054959d0b0cd2bad8a71943c0",
+    "/workshop21/assets/icons/icon-144x144.png": "af8c6c79fd88be6ec10e251155d4c5eaad423118",
+    "/workshop21/assets/icons/icon-152x152.png": "fbea018290dbec77820446877e6aab9e1fc91659",
+    "/workshop21/assets/icons/icon-192x192.png": "14b5e760faa62b00ccbb67476cd5738a38f6e5cf",
+    "/workshop21/assets/icons/icon-384x384.png": "187761247205fc1a88c1e393a3ae46b794a82875",
+    "/workshop21/assets/icons/icon-512x512.png": "b64cbe4a777e07d4117115c3ed57cad00d3b9f21",
+    "/workshop21/assets/icons/icon-72x72.png": "e9bded811cdd517f18a4ef6b36355bc763eb8ad2",
+    "/workshop21/assets/icons/icon-96x96.png": "c1c6b45bdb5f83bf1fe213846aef935d8a730ecb",
+    "/workshop21/assets/terra.jpg": "5eb44eaa3802a10cb777b9b5612f7e2cadc43d94",
+    "/workshop21/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/workshop21/index.html": "c2f100b84caafe7d8bc87197258fd3a5f7742597",
+    "/workshop21/main.a587cc9f6b674930.js": "f214af90a1a720c5edd8b53a4d32489ad01b53d4",
+    "/workshop21/manifest.webmanifest": "eaaff84dbc99db352acf80b6b2445e9c4e1adaa1",
+    "/workshop21/polyfills.4bdbddddb194420f.js": "d2ce7cfedb0d16255bf5e417be1bff3b522221d1",
+    "/workshop21/runtime.825469429f175e3b.js": "14d8cb39990fd0514fbebcf933c5b220b7305ae7",
+    "/workshop21/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
